@@ -102,7 +102,7 @@
 		<dependency>
 			<groupId>org.jrimum</groupId>
 			<artifactId>jrimum-vallia</artifactId>
-			<version>0.2.3-DEV-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 		<!-- Test -->
 		<dependency>
